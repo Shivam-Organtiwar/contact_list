@@ -1,5 +1,5 @@
 # contact_list
-Contact List where you can add and delete a contact. Made using the MVC Architecture.<br>
+Contact List where you can add and delete a contact. Implemented using the MVC Architecture.<br>
 Tech Stack : HTML, CSS, JS <br>
 MongoDB, Express.js, Node.js <br>
 Template Engine : EJS <br>
